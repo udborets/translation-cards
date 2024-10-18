@@ -1,0 +1,14 @@
+{
+    "a": {
+        "show_after": 0,
+        "translations": [
+            "een"
+        ]
+    },
+    "the bus leaves at 8 o'clock": {
+        "show_after": 0,
+        "translations": [
+            "de bus vertrect over acht uur"
+        ]
+    }
+}
